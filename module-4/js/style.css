@@ -1,0 +1,17 @@
+body {
+    margin: 0;
+    font-family: arial;
+}
+
+.box {
+    margin: 0;
+    height: 40px;
+    padding: 10px;
+    border: 2px solid;
+    background: khaki;
+}
+.empty {
+    margin-top: 40px;
+    margin-bottom: 20px;
+    
+}
